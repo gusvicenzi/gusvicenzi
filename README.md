@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to my github! My name is Gustavo Vicenzi and I am a fullstack developer from Brazil.
-### I'm currently studying Typescript and React Native.
+### I'm currently studying Typescript and working with React.js.
 
 
 <div align="center">
