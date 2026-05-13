@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  
 ### Check out my latest project! 🚀
 
-I built **Love Story** - A beautiful app for creating and sharing romantic stories. Visit it here: [Love Story](https://lovestory-azure.vercel.app/)
+I built **Love Story** - A beautiful app for creating and sharing romantic stories. Visit it here: [Love Story](https://www.lovestory.dev.br/)
 
 <div align="center"> 
   
